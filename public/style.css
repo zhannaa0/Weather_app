@@ -1,0 +1,30 @@
+.container{
+    background-color: rgba(44, 62, 69, 0.674);
+    width: 50%;
+    height: 80%;
+}
+
+body {
+    background-image: url("assets/aesthetic-cloud-background-05bsl7m2e5bh01ki.jpg");
+    background-size: cover;
+}
+
+
+.water{
+    color: rgb(91, 91, 227);
+}
+
+.pressure{
+    color: rgb(68, 47, 28)
+}
+
+.wind{
+    color: darkslategray;
+}
+
+
+h6{
+    color: rgba(44, 62, 69, 0.674);
+}
+
+
